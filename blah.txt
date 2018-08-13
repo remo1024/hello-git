@@ -1,5 +1,3 @@
 blah, blah, blah...
 
-Another line - oh my!
-
-Yet more stuff
+More stuff is better than less
